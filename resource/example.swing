@@ -1,0 +1,5 @@
+Begin Frame
+    Title Example
+    Bounds 100, 100, 450, 250
+    Layout Border
+End Frame
